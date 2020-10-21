@@ -1,0 +1,42 @@
+Class Customer:
+
+Customer's name (Last name , first name)
+Email Address
+Home and Work Address
+Validate()
+Retrieve()
+Save()
+
+
+Class Product:
+Product name
+Description 
+current price
+Validate()
+Retrieve()
+Save()
+
+
+Order Class:
+Customer
+Order Date
+Shipping Address
+Order Items
+Validate()
+Retrieve()
+Save()
+
+
+Order Item Class
+Product
+quantity
+Purchase Price
+Validate()
+Retrieve()
+Save()
+
+
+namespace ACM.BL
+{
+
+}
